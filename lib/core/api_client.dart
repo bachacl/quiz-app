@@ -5,7 +5,7 @@ import 'package:quiz_app/data/question.dart';
 import 'package:quiz_app/data/raw_data.dart';
 
 const baseUrl = 'https://raw.githubusercontent.com/bachbnt/demos/main/';
-const questionPath = 'questionList.json';
+const questionPath = 'question-list.json';
 const hasApi = true;
 
 class ApiClient {
